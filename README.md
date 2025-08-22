@@ -45,8 +45,8 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalB21&show_icons=true&theme=radical" alt="kunal stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalB21&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunal-Bhandari&show_icons=true&theme=radical" alt="kunal stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Bhandari&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 
