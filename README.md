@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kunal Bhandari</h1>
-<h3 align="center">AI/ML Enthusiast | Deep Learning Practitioner | Aspiring Researcher</h3>
+<h3 align="center">Software Engineer | Deep Learning Practitioner | Aspiring Researcher</h3>
 
 ---
 
-- 🔭 Currently working on **Audio Classification**, with a focus on **Speaker Recognition, Speaker Verification & Fake Speech Detection**  
-- 🌱 Learning and building with **PyTorch, TensorFlow, FastAPI, MongoDB, Redis, AWS**  
-- 👯 Open to collaborate on **Deep Learning, Speech, and Computer Vision projects**  
-- 📫 Reach me at: **kunalrajan21@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1k9zaEt3Tp2quoxJByMnw40gEx3QtX_bi/view?usp=sharing)  
+- Currently working on **Full Stack Development**, with a focus on **Socket Programming and Scalable Distributed Systems**  
+- Learning and building with **Fast API, PostgreSQL, Docker, Redis, Microservices Architecture**
+- Ask me about **PyTorch, TensorFlow, FastAPI, MongoDB, Redis, AWS**   
+- Open to collaborate on **Deep Learning, Speech, and Computer Vision projects**  
+- Reach me at: **kunalrajan21@gmail.com**  
+- [View My Resume](https://drive.google.com/file/d/1k9zaEt3Tp2quoxJByMnw40gEx3QtX_bi/view?usp=sharing)  
 
 ---
 
